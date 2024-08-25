@@ -8,5 +8,12 @@ Developed **Tomato**, a responsive food listing platform designed to enhance the
 
 This project demonstrates expertise in creating interactive and user-friendly web applications, with a focus on responsive design and dynamic user interfaces.
 
+
+**Steps to run the code**
+
+Install all the dependencies using the command *npm install* in terminal.
+Then use command *npm run dev* in terminal to run the app in localhost.
+
+
 Deployed link - https://tomato-application.netlify.app/
 
