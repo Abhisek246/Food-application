@@ -1,8 +1,12 @@
-# React + Vite
+**Tomato: Find and Explore Dining Options**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed **Tomato**, a responsive food listing platform designed to enhance the dining discovery experience. Key features and technologies include:
 
-Currently, two official plugins are available:
+- **Category-Based Filtering**: Implemented a robust filtering system using React, allowing users to effortlessly browse and discover diverse food dishes by category, streamlining the search process.
+- **Dynamic Cart Functionality**: Developed a real-time cart feature that updates instantly as users add or remove items, displaying total order values and enhancing overall interaction and user satisfaction.
+- **Seamless Navigation**: Utilized React Router to facilitate smooth and efficient navigation across multiple pages, ensuring a fluid user experience as individuals explore different sections of the application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project demonstrates expertise in creating interactive and user-friendly web applications, with a focus on responsive design and dynamic user interfaces.
+
+Deployed link - https://tomato-application.netlify.app/
+
