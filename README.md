@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/65f207cf-c192-452d-8505-153a4aa18102
+
 **Tomato: Find and Explore Dining Options**
 
 Developed **Tomato**, a responsive food listing platform designed to enhance the dining discovery experience. Key features and technologies include:
@@ -17,3 +21,5 @@ Then use command *npm run dev* in terminal to run the app in localhost.
 
 Deployed link - https://tomato-application.netlify.app/
 
+
+https://github.com/user-attachments/assets/e36acab3-c38a-44ad-842d-2fcc85ffe45d
